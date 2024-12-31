@@ -1,13 +1,14 @@
 {
   "name": "vue-doc-viewers-plus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Vue 3 component for viewing various document types including PDF, Office documents and images",
   "main": "dist/vue-doc-viewer-plus.umd.js",
   "module": "dist/vue-doc-viewer-plus.es.js",
   "types": "src/types/index.d.ts",
   "files": [
     "dist",
-    "src/types"
+    "src/types",
+    "images"
   ],
   "keywords": [
     "vue",

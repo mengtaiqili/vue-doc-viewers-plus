@@ -46,6 +46,17 @@ const preview = () => {
 </script>
 ```
 
+## 预览效果
+
+### PDF 预览
+![PDF预览](./images/pdf-preview.png)
+
+### Office 文档预览
+![Office预览](./images/office-preview.png)
+
+### 图片预览
+![图片预览](./images/image-preview.png)
+
 ## Props
 
 | 属性名 | 类型 | 必填 | 默认值 | 说明 |

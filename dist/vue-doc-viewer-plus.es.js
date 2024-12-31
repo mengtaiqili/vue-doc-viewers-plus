@@ -103,7 +103,7 @@ const $ = { class: "vue-doc-viewer" }, j = { class: "modal-header" }, q = { clas
   for (const [p, t] of u)
     r[p] = t;
   return r;
-}, z = /* @__PURE__ */ R(L, [["__scopeId", "data-v-5489040c"]]), H = {
+}, z = /* @__PURE__ */ R(L, [["__scopeId", "data-v-869f4c23"]]), H = {
   install: (s) => {
     s.component("DocViewerPlus", z);
   }
